@@ -1,5 +1,0 @@
-arquivo teste
-adicionando uma linha na main
-adicionando um bug na dev
-adicionando uma nova feature
-Foi adicionado uma alteracao na main 5
